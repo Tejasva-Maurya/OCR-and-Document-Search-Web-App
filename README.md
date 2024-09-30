@@ -27,7 +27,7 @@ Follow these steps to set up the project environment:
 
 ```bash
 git clone https://github.com/Tejasva-Maurya/OCR-and-Document-Search-Web-App.git
-cd OCR-and-Document-Search-Web-Application-Prototype-Using-GOT-OCR-2.0
+cd OCR-and-Document-Search-Web-App
 ```
 
 ### 2. Set up a Virtual Environment
