@@ -1,5 +1,5 @@
 
-# OCR-and-Document-Search-Web-Application-Prototype-Using-GOT-OCR-2.0
+# OCR and Document Search Web Application Prototype Using GOT-OCR 2.0
 
 This repository contains a **Streamlit**-based web application that leverages the **GOT 2.0** OCR model for optical character recognition (OCR) and document search functionality. The application is deployed on Hugging Face Spaces, running on **CPU**, which may cause slightly slower processing times.
 
