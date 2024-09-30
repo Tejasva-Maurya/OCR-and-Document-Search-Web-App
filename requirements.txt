@@ -1,0 +1,7 @@
+torch --index-url https://download.pytorch.org/whl/cpu
+torchvision --index-url https://download.pytorch.org/whl/cpu
+tiktoken
+verovio
+accelerate==0.28.0
+transformers==4.45.0
+streamlit==1.30.0
